@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web-CityInfo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0bd9587-27ca-41ba-966d-8c78dea03d3e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="118" column="81" lean-forward="true" selection-start-line="118" selection-start-column="81" selection-end-line="118" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthorityFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/filter/AuthorityFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/default.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/ListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="66" column="39" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityInfoService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/service/CityInfoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetMoneyServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/SetMoneyServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/model/Info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+              <folding>
+                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="e#1619#1620#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+      <find>index_detail</find>
+      <find>type</find>
+      <find>img</find>
+      <find>index_default</find>
+      <find>conditions</find>
+      <find>textar</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/test/CityInfoDaoDriver.java" />
+        <option value="$PROJECT_DIR$/web/index_left.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/util/PageIndicatorCreate.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/IndexSearchServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/top.js.jsp" />
+        <option value="$PROJECT_DIR$/web/index_top.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/end.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/IndexListServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/IndexListServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/default.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/detail.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/IndexSearchServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/left.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/add.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/model/User.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/foreground/top.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/login.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/main.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/end.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/default.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LoginOutServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/top.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LogoutServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/SetMoney.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/moneyshow.jsp" />
+        <option value="$PROJECT_DIR$/web/js/DeleteCheck.js" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/test/SomeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/AddServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/DetailServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/ListServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/SearchServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/SetMoneyServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/DeleteServlet.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/money_show.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/dao/CityInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/service/CityInfoService.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/right.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/ListServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/check_show.jsp" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/CheckServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/admin/list.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/wei/cityinfo/filter/AuthorityFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-CityInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-CityInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-CityInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-CityInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Login&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/admin/LoginServlet.java&#10;mo&#9;FILE&#9;file://E:/all_ws/web_ws/web-CityInfo/web/WEB-INF/admin/money_show.jsp&#10;add&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/WEB-INF/foreground/add.jsp&#10;left&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/WEB-INF/foreground/left.jsp&#10;top&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/WEB-INF/foreground/top.jsp&#10;defa&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/WEB-INF/foreground/default.jsp&#10;Inde&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/IndexServlet.java&#10;IndexLi&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/IndexListServlet.java&#10;index_li&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/index_list.jsp&#10;IndexList&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/IndexListServlet.java&#10;index_detail&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/index_detail.jsp&#10;Index_add&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/index_add.jsp&#10;IndexSer&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/IndexServlet.java&#10;index_d&#9;FILE&#9;file://D:/ws_all/web_ws/web-CityInfo/web/index_default.jsp&#10;In&#9;FILE&#9;file://E:/all_ws/web_ws/web-CityInfo/src/com/wei/cityinfo/servlet/IndexServlet.java&#10;index_list&#9;FILE&#9;file://E:/all_ws/web_ws/web-CityInfo/web/index_list.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\all_ws\web_ws\web-CityInfo\web\WEB-INF\admin" />
+      <recent name="D:\ws_all\web_ws\web-CityInfo\web\WEB-INF\admin" />
+      <recent name="D:\ws_all\web_ws\web-CityInfo\web\WEB-INF\foreground" />
+      <recent name="D:\ws_all\web_ws\web-CityInfo\web" />
+      <recent name="D:\ws_all\web_ws\web-CityInfo\web\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ws_all\web_ws\web-CityInfo\src\SQL" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat9">
+    <configuration name="CityInfoDaoDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.cityinfo.test.CityInfoDaoDriver" />
+      <module name="web-CityInfo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.cityinfo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CityInfoServiceDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.cityinfo.test.CityInfoServiceDriver" />
+      <module name="web-CityInfo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.cityinfo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PageUtilsDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.cityinfo.test.PageUtilsDriver" />
+      <module name="web-CityInfo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.cityinfo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SomeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.cityinfo.test.SomeTest" />
+      <module name="web-CityInfo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.cityinfo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TypeDaoDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wei.cityinfo.test.TypeDaoDriver" />
+      <module name="web-CityInfo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wei.cityinfo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web-CityInfo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CityInfo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_web-CityInfo" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63815" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web-CityInfo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat9" />
+      <item itemvalue="Application.TypeDaoDriver" />
+      <item itemvalue="Application.CityInfoDaoDriver" />
+      <item itemvalue="Application.CityInfoServiceDriver" />
+      <item itemvalue="Application.PageUtilsDriver" />
+      <item itemvalue="Application.SomeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SomeTest" />
+        <item itemvalue="Application.PageUtilsDriver" />
+        <item itemvalue="Application.CityInfoDaoDriver" />
+        <item itemvalue="Application.TypeDaoDriver" />
+        <item itemvalue="Application.CityInfoServiceDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0bd9587-27ca-41ba-966d-8c78dea03d3e" name="Default" comment="" />
+      <created>1538966561754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538966561754</updated>
+      <workItem from="1538966567600" duration="41993000" />
+      <workItem from="1539095343643" duration="4667000" />
+      <workItem from="1539134341973" duration="27760000" />
+      <workItem from="1539183953309" duration="4509000" />
+      <workItem from="1539267091117" duration="8857000" />
+      <workItem from="1539306447974" duration="3897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116168000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32998884" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32218507" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41694537" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32998884" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.26978818" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.32218507" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3555437" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39910814" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/SearchServlet.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/SearchServlet.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/ListServlet.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wei/cityinfo/filter/AuthorityFilter.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index_top.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/end.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/detail.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/default.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/index_list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/js/InputCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/web/images/default_t.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/default_e.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/default_m.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/end.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/images/admin_top.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/left.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/top.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/top.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/foreground/add.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/test/SomeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/SearchServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/IndexServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/DetailServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/AddServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/IndexServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LogoutServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/db/DBManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="15876" column="17" selection-start-line="15876" selection-start-column="17" selection-end-line="15876" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/main.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/DeleteCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/money_show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/dao/CityInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="337" column="20" lean-forward="true" selection-start-line="337" selection-start-column="20" selection-end-line="337" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/service/PageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/right.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" column="106" selection-start-line="43" selection-start-column="106" selection-end-line="43" selection-end-column="106" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#form#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#fieldset#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#form#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/model/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+          <folding>
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/foreground/ListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/service/CityInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/ListServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/DeleteServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/SetMoneyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/CheckServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/check_show.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/default.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="118" column="81" lean-forward="true" selection-start-line="118" selection-start-column="81" selection-end-line="118" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/filter/AuthorityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wei/cityinfo/servlet/admin/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>web-CityInfo:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>web-CityInfo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
